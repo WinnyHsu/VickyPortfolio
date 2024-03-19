@@ -216,7 +216,7 @@ h4,
 h5,
 h6 {
   font-family: "Josefin Sans", sans-serif;
-  color: #989898;
+  color: #FD853A;
   margin-top: 0px;
   font-style: normal;
   font-weight: 400;
@@ -226,7 +226,7 @@ h6 {
 /* line 24, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_common.scss */
 p {
   font-family: "Josefin Sans", sans-serif;
-  color: #ffffff;
+  color: #344054;
   font-size: 16px;
   line-height: 30px;
   margin-bottom: 15px;
@@ -301,7 +301,7 @@ a {
 
 /* line 77, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_common.scss */
 a:hover {
-  color: #fff;
+  color: #fdcb9e;
 }
 
 /* line 80, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_common.scss */
@@ -315,7 +315,7 @@ a:hover,
 /* line 86, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_common.scss */
 a,
 button {
-  color: #fff;
+  color: #FD853A;
   outline: medium none;
 }
 
@@ -577,7 +577,7 @@ hr {
 .white-btn {
   padding: 18px 36px;
   background: #FAFAFA;
-  color: #989898 !important;
+  color: #FD853A !important;
   margin: 10px 20px;
   border-radius: 50px;
   display: flex;
@@ -3056,7 +3056,7 @@ hr {
   font-weight: 300;
   line-height: 1.4;
   margin-bottom: 22px;
-  color: #ffff;
+  color: #FD853A;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3095,7 +3095,7 @@ hr {
 
 /* line 982, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_common.scss */
 .section-tittle2 h2 {
-  color: #989898;
+  color: #FD853A;
   font-size: 80px;
   font-weight: 300;
 }
@@ -3287,7 +3287,7 @@ hr {
 
 /* line 54, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_headerMenu.scss */
 .header-area .menu-wrapper .main-menu ul li a {
-  color: #989898;
+  color: #171717;
   font-weight: 400;
   padding: 39px 59px;
   display: block;
@@ -3313,7 +3313,7 @@ hr {
   content: "";
   width: 58px;
   height: 2px;
-  background: #989898;
+  background: #171717;
   bottom: 26px;
   margin: 0 auto;
   left: 3px;
@@ -3322,7 +3322,7 @@ hr {
 
 /* line 80, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_headerMenu.scss */
 .header-area .menu-wrapper .main-menu ul li:hover > a {
-  color: rgb(145, 202, 231);
+  color: rgb(157, 157, 157);
 }
 
 /* line 84, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_headerMenu.scss */
@@ -3515,7 +3515,7 @@ hr {
 
 /* line 36, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_h1-hero.scss */
 .slider-area .hero__caption p {
-  color: #989898;
+  color: #171717;
   font-size: 30px;
   font-weight: 300;
   padding-right: 50px;
@@ -3585,7 +3585,7 @@ hr {
   font-size: 200px;
   font-weight: 500;
   /*text-transform: uppercase;*/
-  color: #989898;
+  color: #FD853A;
   line-height: 1;
   margin-bottom: 39px;
   
@@ -3739,7 +3739,7 @@ hr {
 
 /* line 1, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_about.scss */
 .about-area {
-  background: #989898;
+  background: #F2F4F7;
   position: relative;
   margin-right: 100px;
   position: relative;
@@ -4051,7 +4051,7 @@ hr {
 .may-about .single-about .tittle-experience h3 {
   font-weight: 500;
   font-size: 30px;
-  color: #989898;
+  color: #344054;
   margin-bottom: 5px;
 }
 
@@ -4073,7 +4073,7 @@ hr {
 .may-about .single-about .tittle-experience p {
   font-weight: 300;
   font-size: 16px;
-  color: #989898;
+  color: #344054;
   margin-left: 15px;
 }
 
@@ -4081,7 +4081,7 @@ hr {
 .may-about .single-about .experience-link a {
   font-weight: 300;
   font-size: 16px;
-  color: #989898;
+  color: #344054;
 }
 
 @media (max-width: 575px) {
@@ -4098,7 +4098,7 @@ hr {
 
 /* line 2, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_gallery.scss */
 .gallery-area {
-  background: #989898;
+  background: #F2F4F7;
 }
 
 /* line 4, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_gallery.scss */
@@ -4191,6 +4191,16 @@ hr {
   -o-transition: 0.4s;
   transition: 0.4s;
   transform: scale(1);
+}
+
+.overlay-content p {
+  font-family: "Josefin Sans", sans-serif;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 30px;
+  margin-bottom: 15px;
+  line-height: 1.4;
+  font-weight: 300;
 }
 
 /* line 60, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_gallery.scss */
@@ -4515,7 +4525,7 @@ hr {
 
 /* line 109, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_footer.scss */
 .footer-bottom-area .footer-copy-right p {
-  color: #989898;
+  color: #FD853A;
   font-weight: 400;
   font-size: 20px;
   line-height: 1;
